@@ -35,8 +35,9 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="RahulSaini02's Github Stats" src="https://github-readme-stats.RahulSaini02.vercel.app/api?username=RahulSaini02&show_icons=true&hide_border=true" />
+  
+  <img align="left" alt="RahulSaini02's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RahulSaini02&show_icons=true&hide_border=true" />
+  
 </details>
 
 [twitter]: https://twitter.com/Rahul_Saini02
