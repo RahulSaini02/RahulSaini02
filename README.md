@@ -1,12 +1,12 @@
 ### Hi, I'm Rahul Saini  👋
 
-## I'm a Student and Computer Geek!
+## About me:
 
--  👨‍💻 I love coding.
--  👨‍ I'm passionate about Web-Devlopment.
--  🎮 I like to play games. 
+-  I love coding.
+-  Currently working on ReactJs and Django.
 
-### Connect with me:
+
+### Connect with me on:
 
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
