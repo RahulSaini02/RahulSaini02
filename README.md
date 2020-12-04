@@ -2,8 +2,8 @@
 
 ## About me:
 
--  I love coding.
--  Currently working on ReactJs and Django.
+-  Coder & Developer 👨‍💻
+-  MERN Stack 
 
 
 ### Connect with me on:
