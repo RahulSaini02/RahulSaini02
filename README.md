@@ -2,8 +2,8 @@
 
 ## About me:
 
--  Coder & Developer 👨‍💻
--  MERN Stack 
+-  Coder
+-  Web Developer
 
 
 ### Connect with me on:
