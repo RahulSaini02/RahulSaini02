@@ -6,7 +6,7 @@
 
 🎓 Present: MS in Data Science @ UAB   
 
-🛠️ Stack: React, Flask, AWS, Docker, Tableau, SQL, Redshift   
+🛠️ Stack: AWS, Tableau, SQL, Redshift, Next JS, Flask, Docker   
 
 ☁️ Passionate about DevOps, Cloud Automation, and Real-Time Apps    
 
