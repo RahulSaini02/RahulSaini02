@@ -30,10 +30,10 @@ A Data & BI Analyst transitioning into AI Engineering — blending analytical th
 ---
 
 📚 **Explore My Learning Repos**:  
-- [`/python-data-structures-algorithms`](https://github.com/RahulSaini02/python-data-structures-algorithms) – DSA prep with explanations  
-- [`/python-ml-foundations`](https://github.com/RahulSaini02/python-ml-foundations) – ML fundamentals with hands-on notebooks  
-- [`/deep-learning`](https://github.com/RahulSaini02/deep-learning) , [`/llms`](https://github.com/RahulSaini02/llms) – AI model building and experimentation  
-- [`/mlops-production-deployment`](https://github.com/RahulSaini02/mlops-production-deployment)  – ML lifecycle & deployment workflows  
+- [`python basics and DSA`](https://github.com/RahulSaini02/gen-ai-cookbook/tree/main/01-python-basics) – DSA prep with explanations  
+- [`ml foundations with sklearn`](https://github.com/RahulSaini02/gen-ai-cookbook/tree/main/02-machine-learning) – ML fundamentals with hands-on notebooks and projects
+- [`deep learning foundations with pytorch`](https://github.com/RahulSaini02/gen-ai-cookbook/tree/main/03-deep-learning) - DL fundamentals with hands-on notebooks and projects 
+- [`gen-ai foundations`](https://github.com/RahulSaini02/gen-ai-cookbook/tree/main/04-gen-ai)  – GEN-AI Fundamentals  
 
 ---
 
