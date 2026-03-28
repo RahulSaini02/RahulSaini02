@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Rahul Saini</h1>
 <p>
-A Data & BI Analyst transitioning into AI Engineering — blending analytical thinking, business intelligence, and cutting-edge machine learning to solve real-world problems.
+AI software engineer with 5 years of experience building data-intensive and intelligent applications across cloud environments. Experienced in developing end-to-end AI systems including RAG pipelines, LLM-powered applications, workflow automation, and full-stack development using React, FastAPI, NodeJS, AWS and Maven. Strong background in designing scalable backend services, building APIs and integrating ML/LLM models into production software. Passionate about agent-based AI architectures, tool orchestration, and building real-world AI products that drive business value.
 </p>
 
 ---
@@ -11,34 +11,16 @@ A Data & BI Analyst transitioning into AI Engineering — blending analytical th
 ---
 
 🧠 **Core Skills**:  
+- **AI & Agentic AI**: Strands, AgentCore
 - **BI & Analytics**: SQL, Tableau, Power BI, KPI Dashboards, Redshift  
 - **Cloud & DevOps**: AWS (EC2, Lambda, S3), Docker, GitHub Actions  
 - **Programming**: Python (Pandas, NumPy, Flask), Next.js 
 
-🛠️ **Now Learning**:  
-- Machine Learning & Deep Learning (scikit-learn, TensorFlow, PyTorch)  
-- LLMs, Prompt Engineering, LangChain, Retrieval-Augmented Generation  
-- MLOps & Deployment (FastAPI, Docker, CI/CD, SageMaker) 
-
----
-
-🚀 **Current Projects**: 
-- 🛢️ Data Warehouse ETL (Airflow + S3 + Redshift) 
-- 📈 LSTM-based Stock Price Predictor + Tableau Dashboard  
-- 🤖 GenAI Assistant (LangChain + OpenAI + Pinecone)  
-
----
-
-📚 **Explore My Learning Repos**:  
-- [`python basics and DSA`](https://github.com/RahulSaini02/gen-ai-cookbook/tree/main/01-python-basics) – DSA prep with explanations  
-- [`ml foundations with sklearn`](https://github.com/RahulSaini02/gen-ai-cookbook/tree/main/02-machine-learning) – ML fundamentals with hands-on notebooks and projects
-- [`deep learning foundations with pytorch`](https://github.com/RahulSaini02/gen-ai-cookbook/tree/main/03-deep-learning) - DL fundamentals with hands-on notebooks and projects 
-- [`gen-ai foundations`](https://github.com/RahulSaini02/gen-ai-cookbook/tree/main/04-gen-ai)  – GEN-AI Fundamentals  
 
 ---
 
 📫 **Personal Portfolio**:
-<a target="_blank" href="https://rahulsaini.click/">
+<a target="_blank" href="https://rahulsaini-portfolio-sandy.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-dda15e" alt="Portfolio" />
 </a>
 
